@@ -34,7 +34,7 @@ namespace HopesSpawnMultipliers
             if (_originalSpawnRate == _UNSET) _originalSpawnRate = spawnRate;
             if (_originalMaxSpawns == _UNSET) _originalMaxSpawns = maxSpawns;
 
-            // Notice we are diving the og value to get smaller values
+            // Notice we are dividing the og value to get smaller values
             // This is because for some reason spawnRate works backwards and lower values mean there will be more spawns
             spawnRate = _originalSpawnRate / HopesSpawnMultipliersConfig.Instance.SpawnRateFactor ;
 
