@@ -1,0 +1,27 @@
+Configs: {
+	HopesSpawnMultipliersConfig: {
+		DisplayName: Main Config
+
+		SpawnRateFactor: {
+			Label: Spawn Rate Multiplier
+			Tooltip:
+				'''
+				Spawn rate of the NPCs relative to the vanilla game.	
+
+				1 means 1x the default aka vanilla value.
+				It is recommended that you keep both multipliers the same unless you are having performance issues.
+				'''
+		}
+
+		LimitRateFactor: {
+			Label: Spawn Limit Multiplier
+			Tooltip:
+				'''
+				Spawn limit of the NPCs relative to the vanilla game.
+
+				1 means 1x the default aka vanilla value.
+				It is recommended that you keep both multipliers the same unless you are having performance issues.
+				'''
+		}
+	}
+}

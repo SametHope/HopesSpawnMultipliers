@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "73Czn+4WwoCUr1cRun4zt/xZnZWQF2LL9TkAsN+DuON76FuHKB8yIIxt+r5bRIVcK7C8MBZxQktFCyXghGJ0qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SametHope\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\HopesSpawnMultipliers\\HopesSpawnMultipliers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SametHope\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

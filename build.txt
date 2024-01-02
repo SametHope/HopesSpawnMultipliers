@@ -1,0 +1,3 @@
+displayName = Hope's Spawn Multipliers
+author = SametHope
+version = 0.9
